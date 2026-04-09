@@ -6,8 +6,9 @@
 
 ## 2. 安装过程
 执行命令如下：
-
-```bash
 python -m pip install --upgrade pip
 python -m pip install openai-whisper
 python -m pip install torch torchvision torchaudio
+
+## 3. 结果
+<img width="2349" height="559" alt="image" src="https://github.com/user-attachments/assets/423b47bc-a3e2-4308-bb24-126150679e48" />
